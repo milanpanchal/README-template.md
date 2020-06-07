@@ -10,6 +10,9 @@
 ![Swift version](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)
 ![License](https://img.shields.io/github/license/milanpanchal/README-template.md)
 
+<a href="https://www.linkedin.com/in/milanpanchal/">
+    <img src="https://img.shields.io/badge/Support-Recommend%2FEndorse%20me%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Support me on LinkedIn" /></a>
+
 Write short description about the project. 
 
 ### :gear: Prerequisites
